@@ -21,7 +21,7 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 Hi {}, my name is {}
 I am a group management bot.	
-My Owner is JIN {t.me/nightcore5/}
+My Owner is [JIN] (t.me/Nightcore5)
 Build by weebs for weebs, I specialize in managing groups.	
 You can find my list of available commands with :	
 👉 /help.
