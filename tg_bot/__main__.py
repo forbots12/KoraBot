@@ -21,12 +21,13 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 Hi {}, my name is {}
 I am a group management bot.	
+My Owner is JIN {t.me/nightcore5/}
 Build by weebs for weebs, I specialize in managing groups.	
 You can find my list of available commands with :	
 👉 /help.
 """
 
-BOT_IMAGE = "https://telegra.ph/file/2fbf54ecf569496431507.jpg"
+
 
 HELP_STRINGS = """
 Hey there! My name is *{}*.
